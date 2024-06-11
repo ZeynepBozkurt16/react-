@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Course({ title, description }) {
+function Course({ image, title, description }) {
     // console.log(props)
     // // 2.kullanım
     // const title = props.title
@@ -14,7 +14,7 @@ function Course({ title, description }) {
             {/* 1.kullanım */}
             {/* <div>{props.title}</div>
             <div>{props.description}</div> */}
-
+            <img src={image} alt="" />
             <div>{title}</div>
             <div>{description}</div>
         </div>
