@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "cards",
+=======
+  "name": "react-uygulama1",
+>>>>>>> 32384f37abc3795c9f7a57212259aab1c43afebe
   "private": true,
   "version": "0.0.0",
   "type": "module",
